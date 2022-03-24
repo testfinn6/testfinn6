@@ -1,16 +1,30 @@
-### Hi there 👋
+# BIN Checker Bot
 
-<!--
-**testfinn6/testfinn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PHP BIN Checker Bot
 
-Here are some ideas to get you started:
+Fetch: https://bins.su
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks to [Λгɳαɓ <XLR8/>](https://telegram.me/Arnab431) for  https://binssuapi.vercel.app API
+
+## Heroku Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/reboot13-git/bin-checker-bot)
+
+After Deploying App on Heroku - Setup Webhook
+
+API Token - Get Api Token from [@botfather](https://telegram.me/botfather)
+
+
+`https://api.telegram.org/bot<Api Token>/setWebhook?url=https://<your app name>.herokuapp.com/bot.php`
+
+
+### Command
+
+`!bin xxxxxx`
+
+### Video Tutorial
+
+https://www.youtube.com/watch?v=qIuGJEAAIHY
+
+### Reboot13
+
+[Telegram](https://telegram.me/reboot13_dev) || [Instagram](https://instagram.com/reboot13_dev) || [Twitter](https://twitter.com/reboot13_dev) || [Youtube](https://youtube.com/krutikraut) 
