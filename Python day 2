@@ -1,0 +1,15 @@
+INTRODUCCION DEL DIA 2
+
+string (str) = "hola","%$&",",","123" ## Una serie de texto que va entre comillas.
+
+integer (int) = 150,1,55,-15,0 ## Son numeros enteros que se usan para operaciones o texto.
+
+floating (float) = 1.25, 25.0, 500.00, -95.1 ## Son numeros con con puntos decimales.
+
+listas (lst) = ["sal", 1, -3, 4.5, "marte", 0] # Van entre corchetes y pueden contener cualquierte tipo de datos, se leen el primero de 0-1-2-3-4-5.
+
+diccionarios (dic) = {'color':'rojo','arte':'cine'} ## Son pares de palabras las cuales contienen una clave y un valor. Estos no estan ordenados
+
+tuples (tup) = ## Son un conjunto ordenados de elementos y estos no se pueden modificar
+
+booleanos (bool) 
